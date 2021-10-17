@@ -13,7 +13,7 @@ Firstly, we analysed the number of employees with their titles that are retiring
 
 <img width="347" alt="Promoted" src="https://user-images.githubusercontent.com/86980240/137598474-f1ecdec8-f101-4003-9672-96e7e6397459.png">
 
-There was no need to include former designations as it would make our analysis lengthy and complicated so, we need the most recent designations of those particular employees. To avoid complications, we filtered through the data on the basis of birth date between 1952-01-01 to 1955-12-31. After removing duplicate rows we can see the company has around 90,000 employees that are going to retire, truly a 'silver tsunami'
+There was no need to include former designations as it would make our analysis lengthy and complicated so, we need the most recent designations of those particular employees. To avoid complications, we filtered through the data on the basis of birth date between 1952-01-01 to 1955-12-31. After removing duplicate rows we can see the company has about 90,398 employees that are going to retire, truly a 'silver tsunami'
 
 <img width="292" alt="Titles" src="https://user-images.githubusercontent.com/86980240/137598344-8462871a-c86d-4792-9101-d14b29559b6b.png">
 
@@ -21,7 +21,7 @@ So, we counted the number of employees with their current title, who are going t
 
 <img width="159" alt="Unique_title_count" src="https://user-images.githubusercontent.com/86980240/137598229-d57b78f4-c448-4d97-87b5-4d4f79a33f32.png">
 
-Then finally we looked at employees that are eligible for mentorship. We found out that there are only 1549 employees eligible out of 90,000. It can be seen in mentorship_eligibility csv.
+Then finally we looked at employees that are eligible for mentorship. We found out that there are only 1549 employees eligible out of 90,398. It can be seen in mentorship_eligibility csv.
 
 
 # Summary :
