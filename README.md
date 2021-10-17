@@ -17,7 +17,7 @@ There was no need to include former designations as it would make our analysis l
 
 <img width="292" alt="Titles" src="https://user-images.githubusercontent.com/86980240/137598344-8462871a-c86d-4792-9101-d14b29559b6b.png">
 
-So, we counted the number of employees for each title that are going to retire to provide insights on potential number of vacancies per title. What is fascinating is there are only 2 managers for several departments.
+So, we counted the number of employees with their current title, who are going to retire, to provide insights on potential number of vacancies per title. What is fascinating is there are only 2 managers for several departments.
 
 <img width="159" alt="Unique_title_count" src="https://user-images.githubusercontent.com/86980240/137598229-d57b78f4-c448-4d97-87b5-4d4f79a33f32.png">
 
@@ -29,6 +29,8 @@ Then finally we looked at employees that are eligible for mentorship. We found o
 With this analysis, it is evident that the company will have a really large number of vacancies which means it will need to begin an extensive hiring process in the near future. To be more specific we additionally ran some analysis to provide some insights on which departments will have job openings. The result as follows:
 
 <img width="172" alt="Dept_vacancies" src="https://user-images.githubusercontent.com/86980240/137612411-3750d455-bb65-4c1c-93b3-b14512f5455f.png">
+
+
 
 
 
