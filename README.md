@@ -2,7 +2,7 @@
 
 # Overview:
 
-Pewlette Hacakard is a company with several thousands employees. There are a lot of employees who are going to retire termed as 'upcoming silver tsunami', so the company has few objectives. First is figuring out which positions need to be filled as there will be thousands of job openings. To analyse mass potential vacancies, Bob from HR will look at number of current employees and their current titles, that will be retiring. Thus helping Bob to prepare for retirement packages. Also, another task is to figure out how many of those employees will be eligible for mentorship. To do this, we analysed primary key and foreign keys to establish relationship between different tables.
+Pewlette Hacakard is a company with several thousands employees. There are a lot of employees who are going to retire termed as 'upcoming silver tsunami', so the company has few objectives. First is figuring out which positions need to be filled as there will be thousands of job openings. To analyse mass potential vacancies, Bobby from HR will look at number of current employees and their current titles, that will be retiring. Thus helping Bobby's manager to prepare for retirement packages. Also, another task is to figure out how many of those employees will be eligible for mentorship. To do this, we analysed primary key and foreign keys to establish relationship between different tables.
 
 ![EmployeeDB](https://user-images.githubusercontent.com/86980240/137598238-4c639c2d-a0e4-469a-bf53-cc400d441341.png)
 
