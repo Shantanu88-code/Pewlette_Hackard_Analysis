@@ -7,8 +7,6 @@ Pewlette Hacakard is a company with several thousands employees. There are a lot
 ![EmployeeDB](https://user-images.githubusercontent.com/86980240/137598238-4c639c2d-a0e4-469a-bf53-cc400d441341.png)
 
 
-
-
 # Results: 
 
 Firstly, we analysed the number of employees with their titles that are retiring. At first we had over data of over 130,000 rows which is a vast. But there were some employees that were repeated i.e. few employees got promoted over the period of time.
@@ -28,4 +26,9 @@ Then finally we looked at employees that are eligible for mentorship. We found o
 
 # Summary :
 
-With this analysis, it is evident that the company will have a really large number of vacancies which means it will need to begin an extensive hiring process in the near future. 
+With this analysis, it is evident that the company will have a really large number of vacancies which means it will need to begin an extensive hiring process in the near future. To be more specific we additionally ran some analysis to provide some insights on which departments will have job openings. The result as follows:
+
+<img width="172" alt="Dept_vacancies" src="https://user-images.githubusercontent.com/86980240/137612411-3750d455-bb65-4c1c-93b3-b14512f5455f.png">
+
+
+
