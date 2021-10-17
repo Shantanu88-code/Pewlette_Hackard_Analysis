@@ -26,9 +26,19 @@ Then finally we looked at employees that are eligible for mentorship. We found o
 
 # Summary :
 
+# How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
 With this analysis, it is evident that the company will have a really large number of vacancies which means it will need to begin an extensive hiring process in the near future. To be more specific we additionally ran some analysis to provide some insights on which departments will have job openings. The result as follows:
 
 <img width="172" alt="Dept_vacancies" src="https://user-images.githubusercontent.com/86980240/137612411-3750d455-bb65-4c1c-93b3-b14512f5455f.png">
+
+# Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+This seems another big challenge for the company. To sum up, there are less than 2% potential retirees who are eligible to become a mentor. The number of potential mentors are far lesser than the number of employees retiring, in each department. 
+
+<img width="165" alt="Mentors_per_dept" src="https://user-images.githubusercontent.com/86980240/137613134-f3d9aa93-4075-4a4e-be6e-d695fb4e7954.png">
+
+To minimise the impact of silver tsunami, Pewlette Hackard will have to start searching for suitable candidates who would require minimal directions and training. It is good that the company has people who have worked for so many years meaning, there is a chance of growth for employees with calibre. Also, expertise of current employees can be used to filter and select candidates based on qualifications and skills required for particular department and role. 
 
 
 
